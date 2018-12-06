@@ -1,0 +1,17 @@
+H:\Computer Programming\Yahtzee\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+H:\Computer Programming\Yahtzee\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+H:\Computer Programming\Yahtzee\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+H:\Computer Programming\Yahtzee\Yahtzee\Yahtzee\bin\Debug\Yahtzee.xml
+H:\Computer Programming\Yahtzee\Yahtzee\Yahtzee\obj\Debug\Yahtzee.vbprojResolveAssemblyReference.cache
+H:\Computer Programming\Yahtzee\Yahtzee\Yahtzee\obj\Debug\MainWindow.g.vb
+H:\Computer Programming\Yahtzee\Yahtzee\Yahtzee\obj\Debug\Application.g.vb
+H:\Computer Programming\Yahtzee\Yahtzee\Yahtzee\obj\Debug\Yahtzee_MarkupCompile.cache
+H:\Computer Programming\Yahtzee\Yahtzee\Yahtzee\obj\Debug\Yahtzee_MarkupCompile.lref
+H:\Computer Programming\Yahtzee\Yahtzee\Yahtzee\obj\Debug\MainWindow.baml
+H:\Computer Programming\Yahtzee\Yahtzee\Yahtzee\obj\Debug\Yahtzee.g.resources
+H:\Computer Programming\Yahtzee\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Resources.resources
+H:\Computer Programming\Yahtzee\Yahtzee\Yahtzee\obj\Debug\Yahtzee.vbproj.GenerateResource.cache
+H:\Computer Programming\Yahtzee\Yahtzee\Yahtzee\obj\Debug\Yahtzee.vbproj.CoreCompileInputs.cache
+H:\Computer Programming\Yahtzee\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+H:\Computer Programming\Yahtzee\Yahtzee\Yahtzee\obj\Debug\Yahtzee.xml
+H:\Computer Programming\Yahtzee\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
